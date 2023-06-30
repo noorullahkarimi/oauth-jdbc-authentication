@@ -1,4 +1,4 @@
-package com.example.oauth2;
+package com.example.oauth_jdbc_authentication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.oauth2.Controller;
+package com.example.oauth_jdbc_authentication.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
